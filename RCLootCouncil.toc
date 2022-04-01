@@ -1,0 +1,18 @@
+## Interface: 30300
+## Author: Potdisc , Adaptation for sirus- Master, Stekolnyu
+## Notes: Interface for running a Loot Council
+## Notes-ruRU: Интерфейс для запуска разрола добычи
+## SavedVariables: RCLootCouncilDB
+## Title: RCLootCouncil
+## Version: 1.6.3
+
+Libs\embeds.xml
+
+Module\Mainframe.xml
+Module\RCLootFrame.xml
+Module\RCRankFrame.xml
+Module\RCVersionFrame.xml
+Module\RCLootHistory.xml
+Module\RCArmorTokenData.lua
+
+options.lua
